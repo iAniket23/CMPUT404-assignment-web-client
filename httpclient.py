@@ -17,7 +17,7 @@
 # Do not use urllib's HTTP GET and POST mechanisms.
 # Write your own HTTP GET and POST
 # The point is to understand what you have to send and get experience with it
-#Aniket
+# payload = f'GET / HTTP/1.0\r\nHost: www.google.com\r\n\r\n'
 
 import sys
 import socket
